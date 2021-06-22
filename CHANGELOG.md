@@ -1,6 +1,8 @@
 # Changelog
 
-## Unreleased
+## 3.6.0-alpha.3
+
+- No documented changes.
 
 ## Features
 
